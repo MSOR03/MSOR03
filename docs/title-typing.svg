@@ -1,0 +1,40 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Define the gradient -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color: #4caf50; stop-opacity: 1;" /> <!-- Green -->
+      <stop offset="100%" style="stop-color: #2196f3; stop-opacity: 1;" /> <!-- Blue -->
+    </linearGradient>
+
+    <!-- Create a mask for the typing effect -->
+    <mask id="mask">
+      <rect x="0" y="0" width="0" height="200" fill="white" id="typingMask">
+        <animate attributeName="width" from="0" to="100%" dur="5s" fill="freeze" repeatCount="indefinite" />
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- The actual text -->
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dy=".35em"
+    fill="url(#gradient)"
+    font-size="50"
+    font-family="Arial, sans-serif"
+    mask="url(#mask)"
+  >
+    Hi there 👋, I'm Sebastian!
+  </text>
+
+  <!-- Add a caret for the blinking effect at the end -->
+  <rect x="calc(50% + 18.5rem)" y="40%" width="2" height="40" fill="#ff4081"> <!-- Pink caret -->
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.75s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</svg>

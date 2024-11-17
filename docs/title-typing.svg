@@ -9,7 +9,7 @@
     <!-- Create a mask for the typing effect -->
     <mask id="mask">
       <rect x="0" y="0" width="0" height="200" fill="white" id="typingMask">
-        <animate attributeName="width" from="0" to="100%" dur="5s" fill="freeze" repeatCount="indefinite" />
+        <animate attributeName="width" from="0" to="100%" dur="5s" fill="freeze" repeatCount="" />
       </rect>
     </mask>
   </defs>

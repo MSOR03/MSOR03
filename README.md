@@ -1,24 +1,36 @@
-<!-- Header -->
+<!-- Image -->
+
+<!-- Header -- , In development -->
+
 ![Typing SVG](docs/title-typing.svg) <!-- Make sure to replace with the correct URL -->
 
 <h3 align="center" style="">
-A passionate Student Software Engineering from Bogotá, Colombia.
+A passionate Student Software Engineering and Geodetic Engineering from Bogotá, Colombia.
 </h3>
 
 ---
 
 ### About Me 🚀
+
 - 🔭 I’m currently working on <span style="color: #4caf50;">**Portfolio, Engineering Software Project.**</span>
-- 🌱 I’m currently learning <span style="color: #2196f3;">**React,Node.js,Next.js**</span>
-- 💬 Ask me about <span style="color: #4caf50;">**Your Expertise/Topics You Love**</span>
-- 📫 How to reach me: <span style="color: #2196f3;">**Your Email/LinkedIn/GitHub Profile Link**</span>
-- ⚡ Fun fact: <span style="color: #4caf50;">**Interesting Fact About You**</span>
+- 🌱 I’m currently learning <span style="color: #2196f3;">**React, Node.js, Next.js**</span>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind" />
+  </a>
+</p>
+
+- 💬 Ask me about <span style="color: #4caf50;">**Cartography, Data Science, Machine Learning, Web Development**</span>
+- 📫 How to reach me: <span style="color: #2196f3;">**Searh me on LinkedIn, Instagram**</span>
+- ⚡ Fun fact: <span style="color: #4caf50;">**Chess**</span>
 
 ---
 
 ### Connect with Me 🌐
+
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sebastian-olarte-ramirez-b34966295/?originalSubdomain=co" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://yourportfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
@@ -26,34 +38,40 @@ A passionate Student Software Engineering from Bogotá, Colombia.
 ---
 
 ### Tech Stack 🛠️
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <!-- Add more as needed -->
-</p>
+
+<div align="center">
+  <a href="https://github-readme-tech-stack.vercel.app">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies&align=center&titleAlign=start&fontSize=18&lineHeight=10&lineCount=3&theme=tokyonight&width=450&bg=%1A1B27&titleColor=%70A5FD&line1=javascript%2Cjavascript%2Cauto%3Bpython%2Cpython%2Cauto%3Bjava%2Cjava%2Cauto%3B&line2=sql%2Csql%2Cauto%3Bmongodb%2Cmongodb%2Cauto%3Bhtml5%2Chtml5%2Cauto%3Bcss3%2Ccss3%2Cauto%3B&line3=node.js%2Cnode.js%2Cauto%3Bnextjs%2Cnext.js%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3Bbash%2Cbash%2Cauto%3B" alt="My Tech Stack" />
+  </a>
+</div>
 
 ---
 
 ### GitHub Stats 📊
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSOR03&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSOR03&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSOR03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+</p>
+
+![Graphic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSOR03&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSOR03&layout=compact&theme=tokyonight" alt="Top Languages" /> 
 </p>
 
 ---
 
 ### My Hobbies & Interests 🎨
+
 - 🎮 Gaming
-- 📚 Reading
+- Programming
 - ✈️ Traveling
 - 🎵 Music
 
 ---
 
 ### Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>

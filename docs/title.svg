@@ -1,0 +1,20 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" margin-bottom="0px">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color: #ff7f50; stop-opacity: 1;" />
+      <stop offset="100%" style="stop-color: #6a5acd; stop-opacity: 1;" />
+    </linearGradient>
+  </defs>
+
+  <!-- Animated Text -->
+  <text x="50%" y="50%" text-anchor="middle" fill="url(#gradient)" font-size="50" font-family="Arial, sans-serif">
+    <tspan>
+      <animate attributeName="x" from="0%" to="100%" dur="10s" repeatCount="indefinite" />
+      Hi there 👋, I'm Sebastian!
+    </tspan>
+  </text>
+
+  <!-- Pulsating Effect -->
+  
+</svg>
+

@@ -29,7 +29,7 @@
   </text>
 
   <!-- Add a caret for the blinking effect at the end -->
-  <rect x="calc(50% + 18.5rem)" y="0%" width="2" height="40" fill="#ff4081"> <!-- Pink caret -->
+  <rect x="calc(50% + 18.5rem)" y="40%" width="2" height="40" fill="#ff4081"> <!-- Pink caret -->
     <animate
       attributeName="opacity"
       values="1;0;1"

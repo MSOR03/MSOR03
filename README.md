@@ -1,6 +1,6 @@
 <!-- Image -->
 <!-- Updated Image -->
-<img src="assets/back.jpg" alt="Back" style="width:100%; height:auto; border-radius:10px;" />
+<img src="assets/image.jpg" alt="Back" style="width:100%; height:auto; border-radius:10px;" />
 
 <!-- Header -- , In development -->
 <div align="center">
@@ -69,6 +69,19 @@
 
 ---
 
+### Popular Repositories 📊
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=Red-Bacata&theme=tokyonight&align=center)](https://github.com/MSOR03/Red-Bacata)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=Portfolio&theme=tokyonight)](https://github.com/MSOR03/Portfolio)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=MyChazapp&theme=tokyonight)](https://github.com/MSOR03/MyChazapp)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSOR03&theme=tokyonight" alt="Repos Per Language" />
+
+</div>
+
+---
+
 ### My Hobbies & Interests 🎨
 
 <div align="center">
@@ -109,20 +122,6 @@
     </tr>
   </table>
 </div>
-
----
-
-### Popular Repositories 📊
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=Red-Bacata&theme=tokyonight&align=center)](https://github.com/MSOR03/Red-Bacata)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=Portfolio&theme=tokyonight)](https://github.com/MSOR03/Portfolio)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=MyChazapp&theme=tokyonight)](https://github.com/MSOR03/MyChazapp)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSOR03&theme=tokyonight" alt="Repos Per Language" />
-
-</div>
-
 ---
 
 ### Quote

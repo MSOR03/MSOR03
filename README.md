@@ -1,6 +1,6 @@
 <!-- Image -->
 <!-- Updated Image -->
-<img src="assets/image.jpg" alt="Back" style="width:100%; height:auto; border-radius:10px;" />
+<img src="assets/image.jpeg" alt="Back" style="width:100%; height:auto; border-radius:10px;" />
 
 <!-- Header -- , In development -->
 <div align="center">

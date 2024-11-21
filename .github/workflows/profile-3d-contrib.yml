@@ -2,23 +2,27 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: 
-    - cron: "0 18 * * *" # Runs daily at 18:00 UTC
-  workflow_dispatch:
+    - cron: "*/5 * * * *" # Runs every 5 minutes for testing
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate GitHub Profile 3D Contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Check Out Repository
+        uses: actions/checkout@v3
+
+      - name: Run 3D Contrib Action
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }} # Ensure this token exists in your repository secrets
+          USERNAME: ${{ github.repository_owner }} # Auto-detect repository owner
+
+      - name: Commit & Push Changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Generated 3D Contribution Calendar"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add -A
+          git commit -m "Generated 3D Contribution Calendar" || echo "No changes to commit"
           git push

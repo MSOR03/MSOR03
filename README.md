@@ -9,7 +9,7 @@
 
 </div>
 <h3 align="center" margin style="color:#4caf50;">
-  A Passionate Student of Software and Geodetic Engineering from Bogotá, Colombia
+  A Passionate Student of Software and Topographic Engineer from Bogotá, Colombia
 </h3>
 
 ---

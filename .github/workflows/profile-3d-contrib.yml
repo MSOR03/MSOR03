@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 8 * * *" # Daily at 08:00 UTC (03:00 in Bogotá)
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-3d-contrib.yml"
+      - "conf/github-profile-3d-contrib.json"
 
 permissions:
   contents: write

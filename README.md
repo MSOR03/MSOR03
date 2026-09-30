@@ -21,6 +21,10 @@ I'm a software and topographic engineering student who loves mathematics and tur
 - ♟️ Fun fact: I can talk about **chess** openings for hours
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/sebastian-olarte-ramirez-b34966295/)**
 
+<div align="center">
+  <img src="docs/focus.svg" alt="What I do: Web Development, Data Science &amp; ML, Cartography &amp; GIS" width="100%" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -79,6 +83,8 @@ I'm a software and topographic engineering student who loves mathematics and tur
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/day.svg" />
     <img src="profile-3d-contrib/night.svg" alt="3D contribution calendar" width="100%" />
   </picture>
+  <br />
+  <sub>My last year of contributions in 3D, regenerated every day by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub>
 </div>
 
 ---
@@ -86,42 +92,7 @@ I'm a software and topographic engineering student who loves mathematics and tur
 ## 🎨 Hobbies & Interests
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="assets/spotify.png" alt="Music" width="60" height="60" /><br />
-      <b>Music</b><br />
-      <sub>Listening to and enjoying bands</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="assets/game.png" alt="Gaming" width="60" height="60" /><br />
-      <b>Gaming</b><br />
-      <sub>Adventure and open-world games</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="assets/math.png" alt="Maths" width="60" height="60" /><br />
-      <b>Maths</b><br />
-      <sub>Calculus and statistics</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <img src="assets/chess.png" alt="Chess" width="60" height="60" /><br />
-      <b>Chess</b><br />
-      <sub>Strategy and tactics</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="assets/avion.png" alt="Traveling" width="60" height="60" /><br />
-      <b>Traveling</b><br />
-      <sub>Exploring new places and cultures</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="assets/bicycle.png" alt="Cycling" width="60" height="60" /><br />
-      <b>Cycling</b><br />
-      <sub>Riding my bike around the city</sub>
-    </td>
-  </tr>
-</table>
+  <img src="docs/hobbies.svg" alt="Hobbies: Music, Gaming, Maths, Chess, Traveling and Cycling" width="100%" />
 </div>
 
 ---
@@ -130,6 +101,8 @@ I'm a software and topographic engineering student who loves mathematics and tur
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 
-<sub>Thanks for visiting! ⭐ Feel free to explore my repositories.</sub>
+<br /><br />
+
+<img src="docs/footer.svg" alt="Thanks for visiting!" width="100%" />
 
 </div>

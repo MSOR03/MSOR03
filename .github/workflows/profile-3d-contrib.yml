@@ -1,33 +1,42 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: 
-    - cron: "*/5 * * * *" # Runs daily at 18:00 UTC
+  schedule:
+    - cron: "0 8 * * *" # Daily at 08:00 UTC (03:00 in Bogotá)
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate GitHub Profile 3D Contrib
     steps:
-      - name: Set Up Node.js 20
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
       - name: Check Out Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
 
       - name: Run 3D Contrib Action
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
+          # Uses the GITHUBTOKEN secret (a personal access token, which also counts
+          # private contributions) when it exists, otherwise the built-in token.
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/github-profile-3d-contrib.json
 
       - name: Commit & Push Changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add -A
-          git commit -m "Generated 3D Contribution Calendar" || echo "No changes to commit"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Generate 3D contribution calendar"
+            git push
+          fi

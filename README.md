@@ -1,143 +1,135 @@
-<!-- Image -->
-<!-- Updated Image -->
-<img src="assets/image.jpeg" alt="Back" style="width:100%; height:auto; border-radius:10px;" />
-
-<!-- Header -- , In development -->
 <div align="center">
 
-![Typing SVG](docs/title-typing.svg)
+<img src="docs/banner.svg" alt="Hi, I'm Sebastián Olarte — Software & Topographic Engineering from Bogotá, Colombia" width="100%" />
 
-</div>
-<h3 align="center" margin style="color:#4caf50;">
-  A Passionate Student of Software and Topographic Engineer from Bogotá, Colombia
-</h3>
+<br />
 
----
-
-### About Me 🚀
-
-- 🔭 I’m currently working on <span style="color: #4caf50;">**Portfolio, Engineering Software Project.**</span>
-- 🌱 I’m currently learning <span style="color: #2196f3;">**React, Node.js, Next.js**</span>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind" />
-  </a>
-</p>
-
-- 💬 Ask me about <span style="color: #4caf50;">**Cartography, Data Science, Machine Learning, Web Development**</span>
-- 📫 How to reach me: <span style="color: #2196f3;">**Search me on LinkedIn, Instagram**</span>
-- ⚡ Fun fact: <span style="color: #4caf50;">**Chess**</span>
-
----
-
-### Connect with Me 🌐
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-olarte-ramirez-b34966295/?originalSubdomain=co" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://yourportfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-### Tech Stack 🛠️
-
-<div align="center">
-  <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies&align=center&titleAlign=start&fontSize=18&lineHeight=10&lineCount=3&theme=tokyonight&width=450&bg=%1A1B27&titleColor=%70A5FD&line1=javascript%2Cjavascript%2Cauto%3Bpython%2Cpython%2Cauto%3Bjava%2Cjava%2Cauto%3B&line2=sql%2Csql%2Cauto%3Bmongodb%2Cmongodb%2Cauto%3Bhtml5%2Chtml5%2Cauto%3Bcss3%2Ccss3%2Cauto%3B&line3=node.js%2Cnode.js%2Cauto%3Bnextjs%2Cnext.js%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3Bbash%2Cbash%2Cauto%3B" alt="My Tech Stack" />
-  </a>
-</div>
-
----
-
-### GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSOR03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
-</p>
-
-<p align="center">
-
-![Graphic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSOR03&layout=compact&theme=tokyonight&align=center)
-
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSOR03&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### Popular Repositories 📊
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=Red-Bacata&theme=tokyonight&align=center)](https://github.com/MSOR03/Red-Bacata)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=Portfolio&theme=tokyonight)](https://github.com/MSOR03/Portfolio)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=MyChazapp&theme=tokyonight)](https://github.com/MSOR03/MyChazapp)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSOR03&theme=tokyonight" alt="Repos Per Language" />
+<a href="https://www.linkedin.com/in/sebastian-olarte-ramirez-b34966295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/MSOR03?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a> <img src="https://img.shields.io/badge/Bogot%C3%A1%2C%20Colombia-4caf50?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bogotá, Colombia" /> <img src="https://komarev.com/ghpvc/?username=MSOR03&style=for-the-badge&color=2196f3&label=Profile+views" alt="Profile views" />
 
 </div>
 
 ---
 
-### My Hobbies & Interests 🎨
+## 👨‍💻 About Me
+
+I'm a software and topographic engineering student who loves mathematics and turning spatial data into useful software. I enjoy the space where **maps, data and the web** meet: from hydro-meteorological dashboards to full-stack web apps.
+
+- 🔭 Currently working on **[DroughtMonitor (SIPREH)](https://github.com/MSOR03/SIPREH)**, a drought monitoring and prediction platform for Colombia
+- 🌱 Currently learning **React, Node.js and Next.js**
+- 💬 Ask me about **Cartography, GIS, Data Science, Machine Learning and Web Development**
+- 📐 Into **calculus, statistics** and numerical methods (FEM)
+- ♟️ Fun fact: I can talk about **chess** openings for hours
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/sebastian-olarte-ramirez-b34966295/)**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <table style="border:none;">
-    <tr>
-      <td align="center" width="200">
-        <img src="assets/spotify.png" alt="Music" width="70" height="70" />
-        <h3 style="color:#7aa2f7">Music</h3>
-        <p style="color:#a9b1d6">Listening and enjoying musical bands.</p>
-      </td>
-      <td align="center" width="200">
-        <img src="assets/game.png" alt="Gaming" width="70" height="70" />
-        <h3 style="color:#7aa2f7">Gaming</h3>
-        <p style="color:#a9b1d6">Adventure games and open worlds.</p>
-      </td>
-      <td align="center" width="200">
-        <img src="assets/math.png" alt="Maths" width="70" height="70" />
-        <h3 style="color:#7aa2f7">Maths</h3>
-        <p style="color:#a9b1d6">Calculus and statistics.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <img src="assets/chess.png" alt="Chess" width="70" height="70" />
-        <h3 style="color:#7aa2f7">Chess</h3>
-        <p style="color:#a9b1d6">Strategic and tactical games.</p>
-      </td>
-      <td align="center" width="200">
-        <img src="assets/avion.png" alt="Traveling" width="70" height="70" />
-        <h3 style="color:#7aa2f7">Traveling</h3>
-        <p style="color:#a9b1d6">Exploring new places and cultures.</p>
-      </td>
-      <td align="center" width="200">
-        <img src="assets/bicycle.png" alt="Ride Bike" width="70" height="70" />
-        <h3 style="color:#7aa2f7">Ride Bike</h3>
-        <p style="color:#a9b1d6">I enjoy riding my bike and exploring new places.</p>
-      </td>
-    </tr>
-  </table>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,r,html,css&perline=7" alt="Python, JavaScript, Java, C++, R, HTML, CSS" />
+
+**Frameworks & Databases**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,fastapi,django,mongodb&perline=7" alt="React, Next.js, Node.js, Tailwind CSS, FastAPI, Django, MongoDB" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,vscode&perline=7" alt="Git, GitHub, GitHub Actions, Linux, Bash, VS Code" />
+
 </div>
 
 ---
 
+## 🚀 Featured Projects
 
-# My 3D Contribution Calendar
-
-Here is my GitHub 3D contribution calendar:
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| 🌧️ **[DroughtMonitor (SIPREH)](https://github.com/MSOR03/SIPREH)** | Web platform for monitoring, historical analysis and prediction of droughts in Colombia using CHIRPS, ERA5 and IMERG data | Python · FastAPI · Next.js |
+| 🌐 **[Red-Bacatá](https://github.com/MSOR03/Red-Bacata)** | Website for a research group at Universidad Distrital | HTML · CSS |
+| 🧩 **[MyChazapp](https://github.com/MSOR03/MyChazapp)** | Visual, interactive data structures (built together with CeeMC) | JavaScript |
+| 🔐 **[VPN](https://github.com/MSOR03/VPN)** | A simple VPN implemented from cryptographic theory | — |
+| ⚙️ **[Parallel & Distributed Computing](https://github.com/MSOR03/Parallel_distribuited_computing)** | Parallel and distributed computing exercises | Java |
+| 💼 **[Portfolio](https://github.com/MSOR03/Portfolio)** | My personal portfolio, showing my skills and projects | JavaScript |
 
 ---
 
-### Quote
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSOR03&theme=tokyonight" alt="Profile details" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSOR03&theme=tokyonight" alt="GitHub stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSOR03&theme=tokyonight" alt="Most commit language" height="170" />
+
+<img src="https://streak-stats.demolab.com/?user=MSOR03&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🧱 3D Contribution Calendar
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/day.svg" />
+    <img src="profile-3d-contrib/night.svg" alt="3D contribution calendar" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 🎨 Hobbies & Interests
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="assets/spotify.png" alt="Music" width="60" height="60" /><br />
+      <b>Music</b><br />
+      <sub>Listening to and enjoying bands</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="assets/game.png" alt="Gaming" width="60" height="60" /><br />
+      <b>Gaming</b><br />
+      <sub>Adventure and open-world games</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="assets/math.png" alt="Maths" width="60" height="60" /><br />
+      <b>Maths</b><br />
+      <sub>Calculus and statistics</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <img src="assets/chess.png" alt="Chess" width="60" height="60" /><br />
+      <b>Chess</b><br />
+      <sub>Strategy and tactics</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="assets/avion.png" alt="Traveling" width="60" height="60" /><br />
+      <b>Traveling</b><br />
+      <sub>Exploring new places and cultures</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="assets/bicycle.png" alt="Cycling" width="60" height="60" /><br />
+      <b>Cycling</b><br />
+      <sub>Riding my bike around the city</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+<sub>Thanks for visiting! ⭐ Feel free to explore my repositories.</sub>
+
+</div>
